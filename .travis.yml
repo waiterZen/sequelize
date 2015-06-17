@@ -31,7 +31,7 @@ script:
 
 branches:
   only:
-    - master
+    - skyline
     - 1.7.0
 
 matrix:
